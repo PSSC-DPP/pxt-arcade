@@ -1,6 +1,6 @@
 # Sprites
 
-Sprites allow developers to fill there games with unique characters that the player can both control and interact with.
+Sprites allow developers to fill their games with unique characters that the player can both control and interact with.
 
 ```codecard
 [
